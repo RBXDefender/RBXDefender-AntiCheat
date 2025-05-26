@@ -26,13 +26,8 @@ RBXDefender empowers Roblox developers to protect their games from exploiters wi
 1. Clone or download this repository  
 2. Choose the tier scripts you want to use  
 3. Follow the setup instructions in the `/docs` folder (coming soon!)  
-4. Customize configs as needed  
+4. Customize configs as needed
 
 ---
 
-## Usage
-
-```lua
--- Example initialization for Core tier
-local RBXDefender = require(path.to.Core)
-RBXDefender:Initialize()
+join the damn discord
